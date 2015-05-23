@@ -1,0 +1,4 @@
+{
+  "*/emotes.vim": { "alternate": "test/test_{}.vim" },
+  "test/test_*.vim": { "alternate": "{}/emotes.vim" }
+}
